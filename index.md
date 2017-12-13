@@ -1,5 +1,7 @@
+---
 title: Home
 layout: default
+---
 
 **Welcome!** Thank you for considering me as your therapist. Take a look at my website to learn more about me and my practice.
 
