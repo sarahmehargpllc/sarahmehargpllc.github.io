@@ -1,3 +1,8 @@
+---
+title: About Me
+order: 2
+---
+
 I am a Licensed Independent Clinical Social Worker (LICSW) in the District of Columbia. I received my Bachelor of Science in Psychology from Mary Washington College and my Master degree in Social Work with a clinical focus from nearby Catholic University of America.  I have spent the majority of my career living and working in Ward 5 and I am excited to continue offering therapeutic services in this community. 
 
 I have experience providing individual and group psychotherapy in an outpatient mental health clinic and a psychiatric rehabilitation program. In addition, I have provided crisis stabilization services to children and adolescents involved with the District of Columbia's child welfare system. 
